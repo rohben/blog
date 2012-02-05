@@ -1,9 +1,9 @@
-### About blog.rohben.com
+### About this Blog
 
-Created by [Ben Davies][].
+A collection of discoveries made while growing [rohben][], a technology company
+based in Brisbane, Australia.
 
-This site is powered by [Wheat][], a git based blogging engine written in [node.JS][].
-
-[Ben Davies]: http://rohben.com
+[rohben]: http://rohben.com
+[Ben Davies]: http://rohben.com/ben
+[Rohan Davies]: http://rohben.com/rohan
 [node.js]: http://nodejs.org/
-[Wheat]: http://github.com/creationix/wheat
