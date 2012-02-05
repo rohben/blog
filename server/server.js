@@ -3,7 +3,13 @@ var Stack = require('stack'),
     Creationix = require('creationix'),
     Http = require('http');
 
-Http.createServer(Stack(
+var server = Http.createServer(Stack(
   Creationix.log(),
-  require('wheat')(process.env.ROHBEN_LAB ? process.env.GITOLITE + "/blog" : __dirname +"/..")
-)).listen(process.env.ROHBEN_LAB ? 80 : 8080);
+  require('wheat')(process.env.PRODUCTION ? process.env.NODE_ROOT_DIR + "/blog.rohben.com" : __dirname +"/..")
+));
+
+var port = process.env.PRODUCTION ? 80 : 8080;
+
+console.log("blog.rohben.com on port " + port);
+
+server.listen(port);
