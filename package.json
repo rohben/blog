@@ -1,12 +1,12 @@
 {
-  "author": "Tim Caswell <tim@creationix.com> (http://creationix.com/)",
-  "name": "howtonode.org",
-  "description": "The popular blog howto.no.de",
+  "author": "Ben Davies <ben@rohben.com> (http://rohben.com/ben)",
+  "name": "Rohben Blog",
+  "description": "A blog for ",
   "version": "0.0.0",
-  "homepage": "http://howto.no.de/",
+  "homepage": "blog.rohben.com",
   "repository": {
     "type": "git",
-    "url": "git://github.com/creationix/howtonode.org.git"
+    "url": "git@git.rohben.com:blog"
   },
   "engines": {
     "node": ">=0.4.0"

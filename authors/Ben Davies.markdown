@@ -1,7 +1,6 @@
 Github:   brdavies
 Email:    ben@rohben.com
-Homepage:
-Twitter:
+Homepage: http://rohben.com
 Location: Brisbane, Australia
 
 Blah blah description, blah.
