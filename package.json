@@ -1,7 +1,7 @@
 {
   "author": "Ben Davies <ben@rohben.com> (http://rohben.com/ben)",
-  "name": "Rohben Blog",
-  "description": "A blog for ",
+  "name": "blog.rohben",
+  "description": "A blog for rohben company",
   "version": "0.0.0",
   "homepage": "blog.rohben.com",
   "repository": {
