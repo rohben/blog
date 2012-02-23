@@ -187,6 +187,8 @@ var app_exit = function(status, signal) {
         }
         if (signal) {
             signal = " (" + signal + ")";
+        } else {
+            signal = "";
         }
 
         app_info("Exit" + signal + " with status " + status);
