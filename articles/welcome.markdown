@@ -20,6 +20,6 @@ independence, not a fast-paced bolt to internet stardom and really fast cars.
 I'm coming from an embedded programming background so for me this blog will be a
 repository of discoveries as I make the transition from bitwise operators and
 flash drivers to web applications and acronym hell. Maybe I'll post something
-which someone else will find useful too.
+that someone else will find useful too.
 
 [rohben]: http://rohben.com
